@@ -1,4 +1,9 @@
 # Test Repo
 
-In this file, I am going to be testing different markdown features. 
-Blue is a very cool color. However, red used to be my favorite. Now, I don't have a favorite.
+In this file, I am going to be testing different markdown features. :sweat_smile:
+
+Here are the foods that I commonly eat:
+ - Taco salad
+   - with a good bit of greek yogurt for added protein 
+ - Buffalo chicken ranch quesadilla
+ - Egg and sausage quesadilla
